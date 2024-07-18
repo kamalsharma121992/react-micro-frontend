@@ -19,13 +19,14 @@ The container is the main codebase where both remote codes are called. It serves
 
 To set up the container, follow these steps:
 
-1. Ensure you are using Node.js version 18.17.0.
-2. Install the dependencies:
+1. Open container folder
+2. Ensure you are using Node.js version 18.17.0.
+3. Install the dependencies:
 
    ```sh
    npm install
 
-3. Start the development server:
+4. Start the development server:
 
    ```sh
    npm start
@@ -36,13 +37,14 @@ The Product is a micro frontend (MFE) that needs to be hosted in the container.
 ### Setup Product
 To set up the Product micro frontend, follow these steps:
 
-1. Ensure you are using Node.js version 18.17.0.
-2. Install the dependencies:
+1. Open Product folder
+2. Ensure you are using Node.js version 18.17.0.
+3. Install the dependencies:
 
    ```sh
    npm install
 
-3. Start the development server:
+4. Start the development server:
 
    ```sh
    npm start
@@ -53,13 +55,14 @@ The Cart is a micro frontend (MFE) that needs to be hosted in the container.
 ### Setup Cart
 To set up the Product micro frontend, follow these steps:
 
-1. Ensure you are using Node.js version 18.17.0.
-2. Install the dependencies:
+1. Open cart folder
+2. Ensure you are using Node.js version 18.17.0.
+3. Install the dependencies:
 
    ```sh
    npm install
 
-3. Start the development server:
+4. Start the development server:
 
    ```sh
    npm start
